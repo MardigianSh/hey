@@ -1,0 +1,26 @@
+$bg:background;
+$color:green;
+
+.glyphicon-chevron-right{
+font:{
+size:10px;
+weight:100;
+}
+letter-spacing:-5px;
+}
+.black{
+#{$bg}:transparent;
+color:$color;
+border-color:$color;
+  &:hover{
+  #{$bg}:$color;
+  border:none;
+}
+}
+.font {
+   h1{
+   p{
+   font-family:serif;
+   }
+  }
+ }

@@ -1,0 +1,17 @@
+.glyphicon-chevron-right {
+  font-size: 10px;
+  font-weight: 100;
+  letter-spacing: -5px; }
+
+.black {
+  background: transparent;
+  color: green;
+  border-color: green; }
+  .black:hover {
+    background: green;
+    border: none; }
+
+.font h1 p {
+  font-family: serif; }
+
+/*# sourceMappingURL=style.css.map */
